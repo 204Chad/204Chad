@@ -1,5 +1,5 @@
 Hi, I'm Front-end Developer!
-I used to work on several field. so I had some diffenent sight when I work.
+I used to work on several fields. so I had some diffenent sight when I work.
 Now, I focus study on HTML, CSS, JavaScript also so interested of Frameworks whichever can do with JavaScript!	
 <br><br>
 	
