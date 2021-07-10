@@ -1,9 +1,46 @@
 Hi, I'm Front-end Developer!
 I used to work on several field. so I had some diffenent sight when I work.
-Now, I focus study on HTML, CSS, JavaScript also so interested of Frameworks whichever can do with JavaScript!
+Now, I focus study on HTML, CSS, JavaScript also so interested of Frameworks whichever can do with JavaScript!	
+<br><br>
+	
+⌨️ Study on 
+	
+[![HTML5](http://img.shields.io/badge/-HTML5-gray?style=flat-square&logo=HTML5)]()
+[![CSS3](http://img.shields.io/badge/-CSS3-gray?style=flat-square&logo=CSS3)]()
+[![JavaScript](http://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=JavaScript)]()
+[![React](http://img.shields.io/badge/-React-gray?style=flat-square&logo=react)]()
+[![Nodejs](http://img.shields.io/badge/-Node.js-gray?style=flat-square&logo=node.js)]()
+[![AdobePhotoshop](http://img.shields.io/badge/-Photoshop-gray?style=flat-square&logo=AdobePhotoshop)]()
+[![Python](http://img.shields.io/badge/-Python-gray?style=flat-square&logo=Python)]()
+[![AutoHotkey](http://img.shields.io/badge/-AutoHotkey-gray?style=flat-square&logo=AutoHotkey)]()
+<br><br>	
+	
+⚙️ Interested of
+
+[![Vue.js](http://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=Vue.js)]()
+[![Angular](http://img.shields.io/badge/-Angular-gray?style=flat-square&logo=Angular)]()
+[![Sass](http://img.shields.io/badge/-Sass-gray?style=flat-square&logo=Sass)]()
+[![TypeScript](http://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=TypeScript)]()
+[![MongoDB](http://img.shields.io/badge/-MongoDB-gray?style=flat-square&logo=MongoDB)]()
+[![jQuery](http://img.shields.io/badge/-jQuery-gray?style=flat-square&logo=jQuery)]()
+[![Microsoft Azure](http://img.shields.io/badge/-Azure-gray?style=flat-square&logo=MicrosoftAzure)]()
+[![AmazonAWS](http://img.shields.io/badge/-AWS-gray?style=flat-square&logo=AmazonAWS)]()
+<br><br>
+	
+	
+🎧 Tools
+	
+[![macOS](http://img.shields.io/badge/-macOS-gray?style=flat-square&logo=macOS)]()
+[![Windows](http://img.shields.io/badge/-Windows-gray?style=flat-square&logo=Windows)]()
+[![Visual Studio Code](http://img.shields.io/badge/-VScode-gray?style=flat-square&logo=VisualStudioCode)]()
+[![Atom](http://img.shields.io/badge/-Atom-gray?style=flat-square&logo=Atom)]()
+[![Eclipse IDE](http://img.shields.io/badge/-Eclipse-gray?style=flat-square&logo=EclipseIDE)]()
 
 
+	
 
+
+	
 
 <!--
 **204Chad/204Chad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
