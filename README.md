@@ -19,6 +19,7 @@ Now, I focus study on HTML, CSS, JavaScript also so interested of Frameworks whi
 
 [![Vue.js](http://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=Vue.js)]()
 [![Angular](http://img.shields.io/badge/-Angular-gray?style=flat-square&logo=Angular)]()
+[![nX](http://img.shields.io/badge/-NX-gray?style=flat-square&logo=NX)]()
 [![Sass](http://img.shields.io/badge/-Sass-gray?style=flat-square&logo=Sass)]()
 [![TypeScript](http://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=TypeScript)]()
 [![MongoDB](http://img.shields.io/badge/-MongoDB-gray?style=flat-square&logo=MongoDB)]()
