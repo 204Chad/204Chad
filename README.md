@@ -33,9 +33,11 @@ Now, I focus study on HTML, CSS, JavaScript also so interested of Frameworks whi
 	
 [![macOS](http://img.shields.io/badge/-macOS-gray?style=flat-square&logo=macOS)]()
 [![Windows](http://img.shields.io/badge/-Windows-gray?style=flat-square&logo=Windows)]()
+[![docker](http://img.shields.io/badge/-docker-gray?style=flat-square&logo=docker)]()
 [![Visual Studio Code](http://img.shields.io/badge/-VScode-gray?style=flat-square&logo=VisualStudioCode)]()
 [![Atom](http://img.shields.io/badge/-Atom-gray?style=flat-square&logo=Atom)]()
 [![Eclipse IDE](http://img.shields.io/badge/-Eclipse-gray?style=flat-square&logo=EclipseIDE)]()
+
 
 
 	
