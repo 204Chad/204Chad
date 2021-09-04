@@ -2,10 +2,10 @@ Hi, I'm Front-end Developer!
 I used to work on several fields. so I had some diffenent sight when I work.
 Now, I focus study on HTML, CSS, JavaScript also so interested of Frameworks whichever can do with JavaScript!	
 
-This is my Portfolio site but It's still working on it! 👨‍🔧
+<!-- This is my Portfolio site but It's still working on it! 👨‍🔧
 
 https://204chad.github.io/Portfolio/ 
-
+ -->
 <br><br>
 	
 ⌨️ Study on 
