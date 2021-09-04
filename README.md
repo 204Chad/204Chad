@@ -13,6 +13,8 @@ https://204chad.github.io/Portfolio/
 [![HTML5](http://img.shields.io/badge/-HTML5-gray?style=flat-square&logo=HTML5)]()
 [![CSS3](http://img.shields.io/badge/-CSS3-gray?style=flat-square&logo=CSS3)]()
 [![JavaScript](http://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=JavaScript)]()
+[![PHP](http://img.shields.io/badge/-PHP-gray?style=flat-square&logo=PHP)]()
+[![Laravel](http://img.shields.io/badge/-Laravel-gray?style=flat-square&logo=Laravel)]()
 [![React](http://img.shields.io/badge/-React-gray?style=flat-square&logo=react)]()
 [![Nodejs](http://img.shields.io/badge/-Node.js-gray?style=flat-square&logo=node.js)]()
 [![AdobePhotoshop](http://img.shields.io/badge/-Photoshop-gray?style=flat-square&logo=AdobePhotoshop)]()
