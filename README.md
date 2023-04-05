@@ -10,35 +10,28 @@ https://204chad.github.io/Portfolio/
 	
 ⌨️ Study on 
 	
-[![HTML5](http://img.shields.io/badge/-HTML5-gray?style=flat-square&logo=HTML5)]()
-[![CSS3](http://img.shields.io/badge/-CSS3-gray?style=flat-square&logo=CSS3)]()
 [![JavaScript](http://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=JavaScript)]()
-[![PHP](http://img.shields.io/badge/-PHP-gray?style=flat-square&logo=PHP)]()
-[![Laravel](http://img.shields.io/badge/-Laravel-gray?style=flat-square&logo=Laravel)]()
+[![TypeScript](http://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=TypeScript)]()
 [![React](http://img.shields.io/badge/-React-gray?style=flat-square&logo=react)]()
+[![PHP](http://img.shields.io/badge/-PHP-gray?style=flat-square&logo=PHP)]()
 [![Nodejs](http://img.shields.io/badge/-Node.js-gray?style=flat-square&logo=node.js)]()
-[![AdobePhotoshop](http://img.shields.io/badge/-Photoshop-gray?style=flat-square&logo=AdobePhotoshop)]()
 [![Python](http://img.shields.io/badge/-Python-gray?style=flat-square&logo=Python)]()
-[![AutoHotkey](http://img.shields.io/badge/-AutoHotkey-gray?style=flat-square&logo=AutoHotkey)]()
 <br><br>	
 	
 ⚙️ Interested of
 
-[![Vue.js](http://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=Vue.js)]()
-[![Angular](http://img.shields.io/badge/-Angular-gray?style=flat-square&logo=Angular)]()
-[![nX](http://img.shields.io/badge/-NX-gray?style=flat-square&logo=NX)]()
+[![Laravel](http://img.shields.io/badge/-Laravel-gray?style=flat-square&logo=Laravel)]()
 [![Sass](http://img.shields.io/badge/-Sass-gray?style=flat-square&logo=Sass)]()
-[![TypeScript](http://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=TypeScript)]()
 [![MongoDB](http://img.shields.io/badge/-MongoDB-gray?style=flat-square&logo=MongoDB)]()
-[![jQuery](http://img.shields.io/badge/-jQuery-gray?style=flat-square&logo=jQuery)]()
-[![Microsoft Azure](http://img.shields.io/badge/-Azure-gray?style=flat-square&logo=MicrosoftAzure)]()
 [![AmazonAWS](http://img.shields.io/badge/-AWS-gray?style=flat-square&logo=AmazonAWS)]()
+[![Microsoft Azure](http://img.shields.io/badge/-Azure-gray?style=flat-square&logo=MicrosoftAzure)]()
 <br><br>
 	
 	
 🎧 Tools
 	
 [![macOS](http://img.shields.io/badge/-macOS-gray?style=flat-square&logo=macOS)]()
+[![Linux](http://img.shields.io/badge/-Linux-gray?style=flat-square&logo=Linux)]()
 [![Windows](http://img.shields.io/badge/-Windows-gray?style=flat-square&logo=Windows)]()
 [![docker](http://img.shields.io/badge/-docker-gray?style=flat-square&logo=docker)]()
 [![Visual Studio Code](http://img.shields.io/badge/-VScode-gray?style=flat-square&logo=VisualStudioCode)]()
