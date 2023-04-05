@@ -1,4 +1,4 @@
-Hi, I'm Front-end Developer!
+Hi, I'm WEB Developer!
 I used to work on several fields. so I had some diffenent view sight when I work.
 Now, I mainly study on JavaScript, TypeScript, React.js but also interested of all of technologies for develop web feild.
 <!-- This is my Portfolio site but It's still working on it! 👨‍🔧
