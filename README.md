@@ -1,12 +1,11 @@
 Hi, I'm Front-end Developer!
-I used to work on several fields. so I had some diffenent sight when I work.
-Now, I focus study on HTML, CSS, JavaScript also so interested of Frameworks whichever can do with JavaScript!	
-
+I used to work on several fields. so I had some diffenent view sight when I work.
+Now, I mainly study on JavaScript, TypeScript, React.js but also interested of all of technologies for develop web feild.
 <!-- This is my Portfolio site but It's still working on it! 👨‍🔧
 
 https://204chad.github.io/Portfolio/ 
  -->
-<br><br>
+<br>
 	
 ⌨️ Study on 
 	
@@ -35,8 +34,6 @@ https://204chad.github.io/Portfolio/
 [![Windows](http://img.shields.io/badge/-Windows-gray?style=flat-square&logo=Windows)]()
 [![docker](http://img.shields.io/badge/-docker-gray?style=flat-square&logo=docker)]()
 [![Visual Studio Code](http://img.shields.io/badge/-VScode-gray?style=flat-square&logo=VisualStudioCode)]()
-[![Atom](http://img.shields.io/badge/-Atom-gray?style=flat-square&logo=Atom)]()
-[![Eclipse IDE](http://img.shields.io/badge/-Eclipse-gray?style=flat-square&logo=EclipseIDE)]()
 
 <br><br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F204Chad&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
