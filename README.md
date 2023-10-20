@@ -1,10 +1,9 @@
 Hi, I'm WEB Developer!
 I used to work on several fields. so I had some diffenent view sight when I work.
 Now, I mainly study on JavaScript, TypeScript, React.js but also interested of all of technologies for develop web field.
-<!-- This is my Portfolio site but It's still working on it! 👨‍🔧
 
-https://204chad.github.io/Portfolio/ 
- -->
+Checkout my Portfolio page!
+https://cozy-truffle-0e711e.netlify.app
 <br>
 	
 ⌨️ Study on 
